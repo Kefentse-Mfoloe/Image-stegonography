@@ -1,0 +1,6 @@
+C:\Users\g13m3615\Documents\Image processing\Hidden message\Hidden message\bin\Debug\Hidden message.exe.config
+C:\Users\g13m3615\Documents\Image processing\Hidden message\Hidden message\bin\Debug\Hidden message.exe
+C:\Users\g13m3615\Documents\Image processing\Hidden message\Hidden message\bin\Debug\Hidden message.pdb
+C:\Users\g13m3615\Documents\Image processing\Hidden message\Hidden message\obj\Debug\Hidden message.csprojResolveAssemblyReference.cache
+C:\Users\g13m3615\Documents\Image processing\Hidden message\Hidden message\obj\Debug\Hidden message.exe
+C:\Users\g13m3615\Documents\Image processing\Hidden message\Hidden message\obj\Debug\Hidden message.pdb
